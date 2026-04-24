@@ -4,7 +4,7 @@
 
 ---
 
-## 📂 目錄結構
+## 目錄結構
 
 ```
 SPM/
@@ -14,12 +14,12 @@ SPM/
 │   └── SPM_HW2_Group Part.pdf     # 作業二：小組報告
 ├── SPM_HW3/
 │   └── SPM_HW3_GroupPart.pdf      # 作業三：小組報告
-└── bst.cpp                         # Binary Search Tree 程式碼練習
+└── bst.cpp                         # Binary Search Tree 程式碼範例
 ```
 
 ---
 
-## 📄 作業說明
+## 作業說明
 
 ### HW1 — 軟體專案管理基礎
 `SPM_HW1/SPM_HW1_GroupPart.pdf`
@@ -38,7 +38,7 @@ SPM/
 
 ---
 
-## 💻 程式碼：Binary Search Tree（`bst.cpp`）
+## 程式碼：Binary Search Tree（`bst.cpp`）
 
 `bst.cpp` 為 C++ 實作的二元搜尋樹（Binary Search Tree），提供以下操作：
 
@@ -61,13 +61,10 @@ g++ -o bst bst.cpp
 
 ---
 
-## 🛠️ 開發環境
+## 開發環境
 
 - **語言**：C++
 - **編譯器**：GCC / MSVC（原始碼含 `#include "stdafx.h"`，可改用 MSVC 或移除後以 GCC 編譯）
 
----
 
-## 👥 貢獻者
 
-本課程作業由小組成員共同完成。
