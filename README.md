@@ -66,8 +66,3 @@ g++ -o bst bst.cpp
 - **語言**：C++
 - **編譯器**：GCC / MSVC（原始碼含 `#include "stdafx.h"`，可改用 MSVC 或移除後以 GCC 編譯）
 
----
-
-## 👥 貢獻者
-
-本課程作業由小組成員共同完成。
